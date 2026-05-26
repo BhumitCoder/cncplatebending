@@ -18,7 +18,7 @@ import { PageHero } from "@/components/site/PageHero";
 import { submitInquiryLead } from "@/lib/inquirySubmission";
 
 const contactInfo = [
-  { icon: Phone, title: "Managing Director", lines: ["Mayank Pokiya", "+91 84888 01197"], action: { href: "tel:+919978753398", label: "Call Now" } },
+  { icon: Phone, title: "Managing Director", lines: ["Mayank Pokiya", "+91 84888 01197"], action: { href: "tel:+918488801197", label: "Call Now" } },
   { icon: Mail, title: "Email Us", lines: ["mayankpokiya3@gmail.com"], action: { href: "mailto:mayankpokiya3@gmail.com", label: "Send Email" } },
   { icon: Clock, title: "Response Support", lines: ["Mon - Sat project assistance", "Share drawings for faster quotes"], action: null },
   { icon: MapPin, title: "Unit 1 Address", lines: ["Block no. 334/3, Vav-Jokha Road", "Village Jokha, Kamrej, Surat", "Gujarat - 394180"], action: null },
@@ -214,7 +214,7 @@ export default function ContactPage({
                 <div className="p-6 md:p-8 bg-primary/8 border border-primary/20 rounded-2xl">
                   <h4 className="text-base md:text-lg font-display font-black text-[#1A1A1A] uppercase tracking-tight mb-2">Prefer to call directly?</h4>
                   <p className="text-slate-500 text-sm mb-5 md:mb-6 font-light">Speak to our engineering team right now.</p>
-                  <a href="tel:+919978753398" className="flex items-center gap-3 text-xl md:text-2xl font-display font-black text-primary hover:text-[#1A1A1A] transition-colors">
+                  <a href="tel:+918488801197" className="flex items-center gap-3 text-xl md:text-2xl font-display font-black text-primary hover:text-[#1A1A1A] transition-colors">
                     <Phone className="w-5 h-5 md:w-6 md:h-6" />+91 84888 01197
                   </a>
                 </div>
@@ -382,7 +382,7 @@ export default function ContactPage({
                 Still Have<br />Questions?
               </h2>
               <p className="text-zinc-400 font-light text-base md:text-lg max-w-lg mx-auto mb-10 md:mb-12">Our team is available 7 days a week. Pick up the phone - we love talking shop.</p>
-              <a href="tel:+919978753398" className="inline-flex items-center gap-3 md:gap-4 text-3xl sm:text-4xl md:text-5xl font-display font-black text-white hover:text-primary transition-colors">
+              <a href="tel:+918488801197" className="inline-flex items-center gap-3 md:gap-4 text-3xl sm:text-4xl md:text-5xl font-display font-black text-white hover:text-primary transition-colors">
                 <Phone className="w-8 h-8 md:w-10 md:h-10 text-primary" />+91 84888 01197
               </a>
             </motion.div>
