@@ -4,7 +4,7 @@ import { useMemo } from "react";
 
 export function FloatingCta() {
   const href = useMemo(() => {
-    const phone = "919978753398";
+    const phone = "918488801197";
     const message =
       "Hi Balaji Engineering Works, I’d like to request a quote. Please guide me on the required details/files.";
     return `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
