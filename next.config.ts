@@ -34,17 +34,6 @@ const nextConfig: NextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
 
-  async redirects() {
-    return [
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "www.cncplatebending.com" }],
-        destination: "https://cncplatebending.com/:path*",
-        permanent: true,
-      },
-    ];
-  },
-
   async headers() {
     return [
       {

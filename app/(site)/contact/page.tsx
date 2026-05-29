@@ -7,9 +7,9 @@ import {
   createWebPageJsonLd,
 } from "@/lib/seo";
 
-const title = "Request Fabrication Quote in Surat | Balaji Engineering Works";
+const title = "CNC Plate Bending Quote Surat | Contact Balaji Engineering Works for Laser Cutting & Fabrication";
 const description =
-  "Request a fabrication quote in Surat from Balaji Engineering Works for CNC laser cutting, CNC plasma cutting, plate bending, sheet metal job work, and industrial products including base plates, foundation bolts, purlins, and perforated sheets.";
+  "Get a CNC plate bending quote in Surat from Balaji Engineering Works — CNC press brake bending, CNC laser cutting, CNC plasma cutting, plate rolling, sheet metal job work, and industrial products including base plates, foundation bolts, purlins, and perforated sheets.";
 
 export const metadata = buildMetadata({
   title,

@@ -6,9 +6,9 @@ import {
   createWebPageJsonLd,
 } from "@/lib/seo";
 
-const title = "About Balaji Engineering Works in Surat";
+const title = "About Balaji Engineering Works | CNC Plate Bending Manufacturer Since 2001, Surat";
 const description =
-  "Learn about Balaji Engineering Works, the Surat-based manufacturing company behind cncplatebending.com, established in 2001 for bending, cutting, fabrication, and heavy engineering work.";
+  "Balaji Engineering Works is a Surat-based CNC plate bending manufacturer established in 2001 — providing CNC press brake bending, laser cutting, plasma cutting, plate rolling, and heavy fabrication for industries across Gujarat and India.";
 
 export const metadata = buildMetadata({
   title,
