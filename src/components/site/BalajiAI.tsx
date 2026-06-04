@@ -445,3 +445,5 @@ export function BalajiAI() {
     </>
   );
 }
+
+export default BalajiAI;
