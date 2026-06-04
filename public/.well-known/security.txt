@@ -1,5 +1,5 @@
-Contact: mailto:info@balajiengineering.in
+Contact: mailto:mayankpokiya3@gmail.com
 Expires: 2027-05-10T00:00:00.000Z
 Preferred-Languages: en, hi, gu
-Canonical: https://cncplatebending.com/.well-known/security.txt
-Policy: https://cncplatebending.com/contact
+Canonical: https://www.cncplatebending.com/.well-known/security.txt
+Policy: https://www.cncplatebending.com/contact
